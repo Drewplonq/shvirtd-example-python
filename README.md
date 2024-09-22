@@ -17,3 +17,6 @@ https://github.com/Drewplonq/shvirtd-example-python/blob/main/Dockerfile.python
 https://github.com/Drewplonq/shvirtd-example-python/blob/main/compose.yaml
 
 3.2
+
+
+![image](https://github.com/user-attachments/assets/47948231-6874-43aa-bb14-f258dd9b2c0f)
