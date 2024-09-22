@@ -1,0 +1,6 @@
+**/*.*
+LICENSE
+./haproxy/
+./nginx/
+!requirements.txt
+!main.py
