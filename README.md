@@ -37,3 +37,16 @@ https://github.com/Drewplonq/shvirtd-example-python/blob/main/compose.yaml
 ![image](https://github.com/user-attachments/assets/660e493f-bbfd-4f92-a42a-06b734b72192)
 
 
+задача 6
+
+![image](https://github.com/user-attachments/assets/96fd165d-f14e-460a-a3bc-589106c49c00)
+
+![image](https://github.com/user-attachments/assets/582260d7-16cd-49f6-8bf2-2b6712e6d01c)
+
+6.1
+
+
+
+
+
+
